@@ -139,3 +139,6 @@ main section{
 .skill-title{
   color: #181818;
 }
+.resume-container{
+  display: flex;
+}
